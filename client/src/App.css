@@ -1,0 +1,159 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+
+.sign{
+  display:flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center;
+  margin-top:50px;
+
+}
+img{
+  width: 350px;
+  margin-left:100px;
+
+
+}
+.control{ 
+  margin-top:23px;
+  display: inline-block;
+  border-style: none;
+  border-bottom:1px solid black;
+  margin-left:10px;
+  width: 300px;
+  
+}
+
+.control12{ 
+  margin-top:23px;
+  border-style: none;
+  border-bottom: 1px solid black;
+  width: 400px;
+}
+.form{
+  margin-top:30px;
+  background-color:white;
+  display:inline-block;
+  align-items:center;
+  margin-left: 295px;
+  height: 500px;
+  width:1000px;
+
+
+  
+}
+.fa-solid{ 
+  margin-right:10px;
+}
+.text{
+  text-align: center;
+}
+/* body{
+  background-color:lightgray
+} */
+.btn{
+  margin-top:23px;
+}
+.con{
+  display:flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center;
+  margin-top:100px;
+  
+  
+
+
+
+}
+.contact{
+  display: flex;
+  flex-direction:row;
+  margin:23px;
+  background-color:white;
+  
+  
+}
+.movu{
+  
+  border-style: none;
+  border-bottom: 1px solid black;
+}
+.contact_form_title{
+  font-size:30px;
+  font-weight:bold;
+  text-align:center;
+  color: red;
+  margin-left:75px;
+  
+}
+.contact_form{
+  margin-left:100px;
+  width:  1000px;
+}
+#fight{ 
+  margin-top: 20px;
+}
+
+
+
+.button{
+  background-color: blue;
+  color:white
+
+}
+#form{
+  margin-left:195px;
+}
+.input{
+  width: 2000px;
+  margin: 34px;
+}
+.contact_info_item{
+  margin-top:10px;
+  
+  width:260px;
+  height: 70px;
+  background-color:lightblue;
+  font-size: 20px;
+}
+.img{ 
+  margin-right:20px;
+  width:500px;
+}
+#btn{
+  font-size:20px;
+
+}
+
+h1{ 
+  text-align:center;
+}
+.log{
+  margin-top:20px;
+  font-size:23px;
+  
+}
+
+.img1{
+  width:300px;
+  height: 200px;
+}
+h5,h6,p{
+  margin-left:44px;
+}
+.para{
+  margin-right:23px;
+}
+.welcome{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  float:center;
+}
